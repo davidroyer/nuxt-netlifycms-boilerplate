@@ -1,9 +1,9 @@
 {
   "name": "nuxt-netlifycms-boilerplate",
-  "version": "0.1.0",
+  "version": "0.0.0",
   "description": "A simple boilerplate for using NetlifyCMS with Nuxt",
-  "author": "Tyler Mercer",
-  "private": true,
+  "author": "David Royer",
+  "private": false,
   "scripts": {
     "dev": "nuxt",
     "serve": "nuxt",
